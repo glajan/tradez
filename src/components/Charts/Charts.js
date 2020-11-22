@@ -1,5 +1,4 @@
 import React from "react";
-import MenuItem from "../MenuItem/MenuItem";
 import "./index.scss";
 
 const Charts = (p) => {
