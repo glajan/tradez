@@ -1,0 +1,15 @@
+.Header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-column: 1/3;
+  background-color: black;
+  line-height: 100%;
+  color: #eee;
+  font-size: 2rem;
+
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+}
